@@ -127,3 +127,5 @@
 # PR Merge: 2025-10-15 - enhancement/merge-6784
 
 # PR Merge: 2025-10-15 - enhancement/merge-5114
+
+# PR Merge: 2025-10-15 - fix/merge-8648
