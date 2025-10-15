@@ -55,3 +55,5 @@ Generated documentation for awesome-companies.
 # PR Merge: 2025-10-15 - fix/merge-1463
 
 # PR Merge: 2025-10-15 - enhancement/merge-9012
+
+# PR Update: 2025-10-15 - refactor/update-8459
